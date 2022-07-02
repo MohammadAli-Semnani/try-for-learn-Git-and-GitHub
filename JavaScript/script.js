@@ -1,4 +1,4 @@
-console.log('Mhmd.ali.ir')
+console.log('Hi')
+console.log(' am')
 console.log('Mhmd.ali')
-console.log('Mhmd.ali')
-console.log('Mhmd.ali')
+console.log(' from iran')
